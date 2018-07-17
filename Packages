@@ -23,8 +23,8 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/icontool.deb
-Size: 386242
-MD5sum: a91d4e6092200c333113514cb5b8880c
+Size: 384372
+MD5sum: dbd817b08803a18e40a87bf897f62a23
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 
@@ -38,8 +38,8 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/hookkeyboard.deb
-Size: 331762
-MD5sum: 25469eb06b497dea4c14c4da52ef9e5f
+Size: 331790
+MD5sum: 945e1c31743f7c17e6b21900427a38b6
 Depends: mobilesubstrate
 
 Package: com.kdk72.locationfaker8910
@@ -52,8 +52,8 @@ Author: Cunstuck <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/locationfaker.deb
-Size: 558836
-MD5sum: a02dce1f2e101bfaf81dbc4763b6ae41
+Size: 558796
+MD5sum: df650ec7b29c820720590cd00dfcfff9
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -67,7 +67,7 @@ Author: Lunatik <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/xcon.deb
-Size: 136546
-MD5sum: 9b03f987beabe8bc1419c1bf35decc9f
+Size: 136570
+MD5sum: b7f895a300be4c24bb03097af9c4ebec
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
