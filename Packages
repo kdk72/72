@@ -7,7 +7,7 @@ Maintainer: Nice <nofearlose@gmail.com>
 Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
-Filename: ./Debs/autolead.deb
+Filename: ./debs/autolead.deb
 Size: 243030
 MD5sum: 714efdb8d6721bb0a8646df0c21dc3db
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kdk72.icontool,com.kdk72.locationfaker8910,com.kdk72.xcon,com.kdk72.hookkeyboard
@@ -22,7 +22,7 @@ Maintainer: Nice <nofearlose@gmail.com>
 Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/icontool.deb
+Filename: ./debs/icontool.deb
 Size: 386242
 MD5sum: a91d4e6092200c333113514cb5b8880c
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
@@ -37,7 +37,7 @@ Maintainer: Nice <nofearlose@gmail.com>
 Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/hookkeyboard.deb
+Filename: ./debs/hookkeyboard.deb
 Size: 331762
 MD5sum: 25469eb06b497dea4c14c4da52ef9e5f
 Depends: mobilesubstrate
@@ -51,7 +51,7 @@ Maintainer: Nice <nofearlose@gmail.com>
 Author: Cunstuck <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/locationfaker.deb
+Filename: ./debs/locationfaker.deb
 Size: 558836
 MD5sum: a02dce1f2e101bfaf81dbc4763b6ae41
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
@@ -66,7 +66,7 @@ Maintainer: Nice <nofearlose@gmail.com>
 Author: Lunatik <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
-Filename: ./Debs/xcon.deb
+Filename: ./debs/xcon.deb
 Size: 136546
 MD5sum: 9b03f987beabe8bc1419c1bf35decc9f
 Depends: mobilesubstrate
