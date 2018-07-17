@@ -1,8 +1,11 @@
-Origin: KDK 72
-Label: KDK 72
+Origin: Nice IOS Repo
+Label: Nice IOS Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: KDK 72 Description
+Description: Nice for IOS Version 9.2.1 - 10.2.1
+MD5Sum:
+ 8cc7cc91833a26259cc84de772ab0017 2732 Packages
+ 6ff488ea3d5459a130986edde7f2eda8 1148 Packages.bz2
