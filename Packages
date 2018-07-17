@@ -1,0 +1,13 @@
+Package: com.kdk72.autolead
+Name: AutoLead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Auto Lead iOS 8 - 10.2 ..................................... LH: Fb.Com/PhatDatPQ
+Author: Nice
+Section: System
+Filename: ./debs/com.kdk72.autolead_Nice_iphoneos-arm.deb
+Size: 243030
+MD5sum: 714efdb8d6721bb0a8646df0c21dc3db
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.kdk.xcon,jetslammed,socat,com.kdk.hookkeyboard,com.kdk.icontool,com.cydiageek.coysim,com.kdk.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
