@@ -30,7 +30,7 @@ Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 
 Package: com.kdk72.hookkeyboard
 Name: hookkeyboard
-Version: 7.2.3
+Version: 7.2
 Architecture: iphoneos-arm
 Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
 Maintainer: Nice <nofearlose@gmail.com>
@@ -44,7 +44,7 @@ Depends: mobilesubstrate
 
 Package: com.kdk72.locationfaker8910
 Name: LocationFaker(8,9,10)
-Version: 2.0k
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Change your location using a map Cracked
 Maintainer: Nice <nofearlose@gmail.com>
@@ -59,7 +59,7 @@ Conflicts: org.thebigboss.locationchangerx
 
 Package: com.kdk72.xcon
 Name: xCon
-Version: 42-beta1
+Version: 42~beta4
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection
 Maintainer: Nice <nofearlose@gmail.com>
